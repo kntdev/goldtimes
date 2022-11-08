@@ -1,0 +1,20 @@
+.titulo{
+    padding: 10px;
+    font-size: 30px;
+}
+
+.header{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.items{
+    display: flex;
+    gap: 15px;
+    list-style: none;
+    font-size: 1.5em;
+}
+.red{
+    color: red;
+}
